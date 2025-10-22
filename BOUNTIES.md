@@ -13,6 +13,7 @@
 - **Security audits** - $1000+
 
 ## How to Claim
+
 1. Find an open issue with the "bounty" label
 2. Comment "I'll take this bounty"
 3. Submit a PR with your solution
