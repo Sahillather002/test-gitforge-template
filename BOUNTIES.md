@@ -19,7 +19,7 @@
 3. Submit a PR with your solution
 4. Get paid automatically when merged!
 
-## Payment
+## Payments
 
 - **Automated**: Payments trigger on PR merge
 - **USDC**: All bounties paid in stablecoin
