@@ -12,7 +12,7 @@
 - **Protocol development** - $500+
 - **Security audits** - $1000+
 
-## How to Claimsta
+## How to Claim
 
 1. Find an open issue with the "bounty" label
 2. Comment "I'll take this bounty"
